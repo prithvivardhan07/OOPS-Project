@@ -1,0 +1,2 @@
+C001|Rahul Sharma|9876543210|rahul.sharma@example.com
+C002|Priya Verma|9123456780|priya.verma@example.com
